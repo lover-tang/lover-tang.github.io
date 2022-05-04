@@ -6,7 +6,7 @@
   <link href="http://lover-tang.github.io/atom.xml" rel="self"/>
   
   <link href="http://lover-tang.github.io/"/>
-  <updated>2022-05-03T02:12:28.491Z</updated>
+  <updated>2022-05-04T01:40:05.474Z</updated>
   <id>http://lover-tang.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JDBC</title>
+    <link href="http://lover-tang.github.io/2022/05/03/jdbc/"/>
+    <id>http://lover-tang.github.io/2022/05/03/jdbc/</id>
+    <published>2022-05-03T14:56:10.000Z</published>
+    <updated>2022-05-04T01:40:05.474Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;JDBC&quot;&gt;&lt;a href=&quot;#JDBC&quot; class=&quot;headerlink&quot; title=&quot;JDBC&quot;&gt;&lt;/a&gt;JDBC&lt;/h1&gt;&lt;h2 id=&quot;1-JDBC概述&quot;&gt;&lt;a href=&quot;#1-JDBC概述&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="JaveWeb" scheme="http://lover-tang.github.io/categories/JaveWeb/"/>
+    
+    
+    <category term="JDBC" scheme="http://lover-tang.github.io/tags/JDBC/"/>
+    
+  </entry>
   
   <entry>
     <title>Mysql基础</title>
