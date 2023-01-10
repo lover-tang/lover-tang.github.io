@@ -8,7 +8,7 @@
       <link href="/2023/01/10/zhu-jie-can-kao/"/>
       <url>/2023/01/10/zhu-jie-can-kao/</url>
       
-        <content type="html"><![CDATA[<pre><code>@MappedSuperclass:项目开发中需要将数据库表映射到entity中，有多个entity中有共同的属性，我们就可以把这些属性抽象出来当成一个父类，然后不同的entity继承这个父类。被该注解标识的类不会映射到数据库表，但是他的属性会在继承了该类的子类中映射到对应的数据库表中。@Documented: 元注解（修饰注解的注解）。被修饰的注解将包含在JavaDoc中，并且会被javadoc提取成文档。</code></pre>]]></content>
+        <content type="html"><![CDATA[<ol><li>@MappedSuperclass:项目开发中需要将数据库表映射到entity中，有多个entity中有共同的属性，我们就可以把这些属性抽象出来当成一个父类，然后不同的entity继承这个父类。被该注解标识的类不会映射到数据库表，但是他的属性会在继承了该类的子类中映射到对应的数据库表中。</li><li>@Documented: 元注解（修饰注解的注解）。被修饰的注解将包含在JavaDoc中，并且会被javadoc提取成文档。</li></ol>]]></content>
       
       
       
