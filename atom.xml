@@ -6,7 +6,7 @@
   <link href="https://lover-tang.github.io/atom.xml" rel="self"/>
   
   <link href="https://lover-tang.github.io/"/>
-  <updated>2022-09-17T00:43:40.910Z</updated>
+  <updated>2023-01-10T09:13:46.742Z</updated>
   <id>https://lover-tang.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>注解参考</title>
+    <link href="https://lover-tang.github.io/2023/01/10/zhu-jie-can-kao/"/>
+    <id>https://lover-tang.github.io/2023/01/10/zhu-jie-can-kao/</id>
+    <published>2023-01-10T08:09:22.000Z</published>
+    <updated>2023-01-10T09:13:46.742Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre&gt;&lt;code&gt;@MappedSuperclass:项目开发中需要将数据库表映射到entity中，有多个entity中有共同的属性，我们就可以把这些属性抽象出来当成一个父类，然后不同的entity继承这个父类。被该注解标识的类不会映射到数据库表，但是他的属性会在继承了该类的</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>JDBC</title>
@@ -119,7 +140,7 @@
     <link href="https://lover-tang.github.io/2022/03/23/hello-world/"/>
     <id>https://lover-tang.github.io/2022/03/23/hello-world/</id>
     <published>2022-03-23T12:56:24.075Z</published>
-    <updated>2021-10-21T13:30:53.145Z</updated>
+    <updated>2023-01-10T08:39:03.013Z</updated>
     
     
       
@@ -212,7 +233,7 @@
     <link href="https://lover-tang.github.io/2021/10/29/java-jin-cheng-he-xian-cheng/"/>
     <id>https://lover-tang.github.io/2021/10/29/java-jin-cheng-he-xian-cheng/</id>
     <published>2021-10-29T07:01:31.000Z</published>
-    <updated>2022-09-17T00:43:31.202Z</updated>
+    <updated>2023-01-10T08:39:28.744Z</updated>
     
     
       
